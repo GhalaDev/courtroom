@@ -1,0 +1,3 @@
+# Static hosting (Party Mode only). Online Mode needs the Node server.
+[build]
+  publish = "public"
